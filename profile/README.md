@@ -34,8 +34,6 @@ As an organization, we use a wide range of technologies to build and maintain ou
 
 - **Frontend Development**:
     - HTML5, CSS3, JavaScript for building interactive web pages.
-    - **React.js** and **Vue.js** for responsive user interfaces.
-    - **Tailwind CSS** for modern utility-first CSS design.
 
 - **Backend Development**:
     - **Python** for building scalable backend systems, bots, and automation scripts.
@@ -46,10 +44,6 @@ As an organization, we use a wide range of technologies to build and maintain ou
     - **Git** and **GitHub** for version control, collaboration, and issue tracking.
     - **GitHub Actions** for continuous integration and deployment.
     - **Docker** for containerization of our services.
-
-- **Other Tools**:
-    - **Visual Studio Code** and **PyCharm** for development.
-    - **Asana** or **Monday.com** for project management and task tracking.
 ---
 
 ## 📈 Our Roadmap
