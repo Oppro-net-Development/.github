@@ -89,11 +89,11 @@ We highly appreciate all forms of contribution, big or small!
 ## 🤝 Connect with OPPRO.NET Development
 We love interacting with our community and collaborating with like-minded individuals. Here’s how you can stay connected with **OPPRO.NET Development**:
 
-- 🌍 **Official Website**: [Coming soon!](#)
+- 🌍 **Official Website**: [WEB](oppro-network.de)
 - 📧 **Email**: [oppro.help@gmail.com](mailto:oppro.help@gmail.com)
 - 🐦 **Twitter**: [@OPPRO_NET](https://twitter.com/OPPRO_NET)
 - 📺 **YouTube**: [OPPRO.NET Channel](https://youtube.com/c/OPPRONET)
-- 💬 **Discord**: [Join our Community](https://discord.gg/OPPRO_NET)
+- 💬 **Discord**: [Join our Community](https://discord.gg/tmz673WAnV)
 
 ---
 
