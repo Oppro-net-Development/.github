@@ -55,7 +55,7 @@
 <tr>
 <td>
 
-**OPPRO.NET Development** ist die professionelle Entwicklungsabteilung des **OPPRO.NET Network™**. Wir entwickeln hochwertige, skalierbare und wartbare Software-Lösungen für Communities, Unternehmen und digitale Plattformen.
+**OPPRO.NET Development** ist die professionelle Entwicklungsabteilung des **OPPRO.NET Network™**. Wir entwickeln hochwertige, skalierbare und wartbare Software-Lösungen für Communities.
 
 Unser Fokus liegt auf **Qualität**, **Performance** und **Innovation**. Jedes Projekt wird mit modernsten Technologien und Best Practices umgesetzt, um langfristig wartbare und erweiterbare Lösungen zu garantieren.
 
